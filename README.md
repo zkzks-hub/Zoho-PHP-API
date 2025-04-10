@@ -14,18 +14,18 @@ Automate Processes: Simplify and automate your data flow from form submission to
 - Best practices for secure and efficient integration.
 
 # Prerequisites
-- Basic understanding of HTML [Free HTML Crash Course] https://www.youtube.com/playlist?list=PLhPa7T8XPi0K0PkqaANq8VIroQasYJ50j
-- Basic understanding of PHP programming. [Free PHP Crash Course] https://www.youtube.com/playlist?list=PLhPa7T8XPi0JqLm7E95zzVsXx3izfp-u1
+- Basic understanding of HTML [Free HTML Crash Course] (https://www.youtube.com/playlist?list=PLhPa7T8XPi0K0PkqaANq8VIroQasYJ50j)
+- Basic understanding of PHP programming. [Free PHP Crash Course] (https://www.youtube.com/playlist?list=PLhPa7T8XPi0JqLm7E95zzVsXx3izfp-u1)
 - Familiarity with API concepts.
 - Access to a Zoho CRM account (Create for Free - up to 45 days).
 
 # Getting Started
 - Clone this repository: git clone https://github.com/yourusername/zoho-crm-php-integration
-- [Follow the course lectures] https://www.youtube.com/playlist?list=PLhPa7T8XPi0JAnZW7l2EMhPHC8A_m4MbO to understand each part of the integration.
+- [Follow the course lectures] (https://www.youtube.com/playlist?list=PLhPa7T8XPi0JAnZW7l2EMhPHC8A_m4MbO) to understand each part of the integration.
 - Customize the code snippets to fit your website forms.
 - Feel free to explore, contribute, and enhance this project. Happy coding!
 
 # More 
-- [My YouTube Channel] https://www.youtube.com/@zkzks
-- [Linked In Profile] https://www.linkedin.com/in/electroteam/
-- [Udemy] https://www.udemy.com/user/mohamedsaadaly/
+- [My YouTube Channel] (https://www.youtube.com/@zkzks)
+- [Linked In Profile] (https://www.linkedin.com/in/electroteam/)
+- [Udemy] (https://www.udemy.com/user/mohamedsaadaly/)
