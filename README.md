@@ -21,7 +21,7 @@ Automate Processes: Simplify and automate your data flow from form submission to
 
 # Getting Started
 - Clone this repository: git clone https://github.com/yourusername/zoho-crm-php-integration
-- Follow the course modules to understand each part of the integration.
+- [Follow the course lectures] to understand each part of the integration.https://www.youtube.com/playlist?list=PLhPa7T8XPi0JAnZW7l2EMhPHC8A_m4MbO
 - Customize the code snippets to fit your website forms.
 - Feel free to explore, contribute, and enhance this project. Happy coding!
 
