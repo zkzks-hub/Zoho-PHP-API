@@ -12,7 +12,7 @@ class InsertRecords
         $curl_pointer = curl_init();        
         $curl_options = array();
         
-		$url = "https://www.zohoapis.com/crm/v2.1/".$this->module."d";        
+		$url = "https://www.zohoapis.com/crm/v2.1/".$this->module;        
         
 		$curl_options[CURLOPT_URL] =$url;
         $curl_options[CURLOPT_RETURNTRANSFER] = true;
