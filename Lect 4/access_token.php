@@ -1,9 +1,9 @@
 <?php
 function generateAccessToken(){
 $post=array(
-	'refresh_token' => 'YOUR_REFRESH_TOKEN',
-	'client_id' => 'CLIENT_ID',
-	'client_secret' => 'CLIENT_SECRET',
+	'refresh_token' => 'Replace With Your REFRESH_TOKEN',
+	'client_id' => 'Replace With Your CLIENT_ID',
+	'client_secret' => 'Replace With Your CLIENT_SECRET',
 	'grant_type' => 'refresh_token',
 );
 $ch=curl_init();
