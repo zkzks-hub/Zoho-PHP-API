@@ -9,9 +9,9 @@ curl_setopt_array($curl,array(
 	CURLOPT_POST => true,
 	CURLOPT_POSTFIELDS => http_build_query(
 		array(
-		'code' => '1000.508b4a0beb47a6c7e31f9a45ce392695.0af7b539c509d3d940ba1b29c04d2952',
-		'client_id' => '1000.GJID0QNTYO9JNY8Q318PDVBYNCKMGI',
-		'client_secret' => '0f7011664ed2569194f62ec95d838599955faa4dc6',
+		'code' => 'YOUR_CODE',
+		'client_id' => 'CLIENT_ID',
+		'client_secret' => 'CLIENT_SECRET',
 		'grant_type' => 'authorization_code'
 		)
 	),
